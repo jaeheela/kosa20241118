@@ -1,0 +1,126 @@
+[Thu Jun 27 11:33:26.144282 2024] [mpm_prefork:notice] [pid 292] AH00163: Apache/2.4.25 (Debian) configured -- resuming normal operations
+[Thu Jun 27 11:33:26.144423 2024] [core:notice] [pid 292] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 27 11:34:01.689221 2024] [:error] [pid 309] [client 14.35.115.201:8621] PHP Notice:  Constant DVWA_WEB_PAGE_TO_ROOT already defined in /var/www/html/dvwa/includes/DBMS/MySQL.php on line 9, referer: http://lecture.devsmile.com:9090/setup.php
+[Sun Jun 30 12:26:16.208145 2024] [:error] [pid 299] [client 176.237.203.145:8836] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 19:54:17.405267 2024] [:error] [pid 302] [client 176.123.1.159:60614] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 19:54:50.197376 2024] [:error] [pid 309] [client 176.123.1.159:44968] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 19:55:03.342793 2024] [:error] [pid 308] [client 176.123.1.159:57182] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 19:55:24.008895 2024] [:error] [pid 307] [client 176.123.1.159:34014] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 20:12:40.713955 2024] [:error] [pid 298] [client 176.123.1.159:43674] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 20:12:52.155981 2024] [:error] [pid 310] [client 176.123.1.159:45798] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jun 30 21:24:26.191307 2024] [:error] [pid 307] [client 213.165.86.71:61060] script '/var/www/html/frontend_dev.php' not found or unable to stat
+[Sun Jun 30 21:25:33.278159 2024] [:error] [pid 307] [client 213.165.86.71:51938] script '/var/www/html/app_dev.php' not found or unable to stat
+[Sun Jun 30 21:25:44.285644 2024] [:error] [pid 302] [client 213.165.86.71:54905] script '/var/www/html/app_dev.php' not found or unable to stat
+[Sun Jun 30 21:25:45.693928 2024] [:error] [pid 308] [client 213.165.86.71:64121] script '/var/www/html/info.php' not found or unable to stat
+[Sun Jun 30 21:25:52.091661 2024] [:error] [pid 309] [client 213.165.86.71:54541] script '/var/www/html/__info.php' not found or unable to stat
+[Sun Jun 30 21:25:52.796406 2024] [:error] [pid 308] [client 213.165.86.71:59788] script '/var/www/html/_info-backoffice.php' not found or unable to stat
+[Sun Jun 30 21:25:53.488990 2024] [:error] [pid 307] [client 213.165.86.71:59434] script '/var/www/html/_info.php' not found or unable to stat
+[Sun Jun 30 21:25:54.337720 2024] [:error] [pid 301] [client 213.165.86.71:59475] script '/var/www/html/_phpinf.php' not found or unable to stat
+[Sun Jun 30 21:25:55.319227 2024] [:error] [pid 298] [client 213.165.86.71:55375] script '/var/www/html/_phpinfo.php' not found or unable to stat
+[Sun Jun 30 21:25:56.322106 2024] [:error] [pid 310] [client 213.165.86.71:54751] script '/var/www/html/_poopinfo.php' not found or unable to stat
+[Sun Jun 30 21:25:57.148751 2024] [:error] [pid 300] [client 213.165.86.71:50295] script '/var/www/html/.__info.php' not found or unable to stat
+[Sun Jun 30 21:25:57.975736 2024] [:error] [pid 299] [client 213.165.86.71:59897] script '/var/www/html/.info.php' not found or unable to stat
+[Sun Jun 30 21:25:58.663789 2024] [:error] [pid 302] [client 213.165.86.71:53284] script '/var/www/html/0.0_phpinfo.php' not found or unable to stat
+[Sun Jun 30 21:25:59.590168 2024] [:error] [pid 309] [client 213.165.86.71:52502] script '/var/www/html/00_server_info.php' not found or unable to stat
+[Sun Jun 30 21:26:00.395782 2024] [:error] [pid 308] [client 213.165.86.71:65020] script '/var/www/html/02-info.php' not found or unable to stat
+[Sun Jun 30 21:26:01.068993 2024] [:error] [pid 307] [client 213.165.86.71:64265] script '/var/www/html/1_1_PhpInfo.php' not found or unable to stat
+[Sun Jun 30 21:26:01.633862 2024] [:error] [pid 301] [client 213.165.86.71:50673] script '/var/www/html/5info.php' not found or unable to stat
+[Mon Jul 01 03:40:17.390528 2024] [:error] [pid 308] [client 176.123.1.159:50330] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 08:37:14.635743 2024] [:error] [pid 307] [client 176.123.1.159:48810] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 12:33:54.180757 2024] [:error] [pid 301] [client 176.123.1.159:59002] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 13:15:45.504671 2024] [:error] [pid 298] [client 176.123.1.159:49360] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 15:14:32.617798 2024] [:error] [pid 299] [client 176.123.1.159:45876] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 15:14:36.217017 2024] [:error] [pid 302] [client 176.123.1.159:45878] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 16:36:53.685385 2024] [:error] [pid 309] [client 176.123.1.159:55082] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 17:08:20.344288 2024] [:error] [pid 307] [client 176.123.1.159:35640] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 01 19:43:14.405137 2024] [:error] [pid 301] [client 172.105.216.226:58450] script '/var/www/html/inicio.php' not found or unable to stat
+[Mon Jul 01 19:43:15.035203 2024] [core:error] [pid 307] [client 172.105.216.226:58590] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:15.554620 2024] [authz_core:error] [pid 300] [client 172.105.216.226:58654] AH01630: client denied by server configuration: /var/www/html/server-status
+[Mon Jul 01 19:43:17.235640 2024] [:error] [pid 308] [client 172.105.216.226:58794] script '/var/www/html/localstart.php' not found or unable to stat
+[Mon Jul 01 19:43:17.390916 2024] [core:error] [pid 298] [client 172.105.216.226:58800] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:19.424873 2024] [:error] [pid 307] [client 172.105.216.226:51014] script '/var/www/html/main.php' not found or unable to stat
+[Mon Jul 01 19:43:19.580709 2024] [:error] [pid 299] [client 172.105.216.226:51026] script '/var/www/html/base.php' not found or unable to stat
+[Mon Jul 01 19:43:20.042958 2024] [core:error] [pid 309] [client 172.105.216.226:51064] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:21.607110 2024] [core:error] [pid 300] [client 172.105.216.226:51162] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:22.543211 2024] [:error] [pid 309] [client 172.105.216.226:51222] script '/var/www/html/admin.php' not found or unable to stat
+[Mon Jul 01 19:43:22.859454 2024] [:error] [pid 300] [client 172.105.216.226:51234] script '/var/www/html/indice.php' not found or unable to stat
+[Mon Jul 01 19:43:23.175630 2024] [core:error] [pid 299] [client 172.105.216.226:51252] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:24.114045 2024] [core:error] [pid 300] [client 172.105.216.226:51314] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:24.422562 2024] [:error] [pid 299] [client 172.105.216.226:51340] script '/var/www/html/menu.php' not found or unable to stat
+[Mon Jul 01 19:43:25.368560 2024] [:error] [pid 300] [client 172.105.216.226:51400] script '/var/www/html/home.php' not found or unable to stat
+[Mon Jul 01 19:43:25.995997 2024] [core:error] [pid 298] [client 172.105.216.226:51442] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:26.150994 2024] [core:error] [pid 310] [client 172.105.216.226:51456] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:28.308145 2024] [core:error] [pid 301] [client 172.105.216.226:48388] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:29.553656 2024] [core:error] [pid 301] [client 172.105.216.226:48450] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:30.172067 2024] [core:error] [pid 308] [client 172.105.216.226:48498] AH00082: an unknown filter was not added: includes
+[Mon Jul 01 19:43:31.257984 2024] [core:error] [pid 309] [client 172.105.216.226:48538] AH00126: Invalid URI in request GET default.asp HTTP/1.1
+[Mon Jul 01 19:43:31.871295 2024] [:error] [pid 299] [client 172.105.216.226:48556] script '/var/www/html/start.php' not found or unable to stat
+[Mon Jul 01 19:43:32.026791 2024] [:error] [pid 301] [client 172.105.216.226:48568] script '/var/www/html/default.php' not found or unable to stat
+[Mon Jul 01 21:55:17.275081 2024] [:error] [pid 310] [client 176.123.1.159:45104] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 06:34:23.888966 2024] [:error] [pid 310] [client 176.123.1.159:59288] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 09:40:38.558381 2024] [:error] [pid 308] [client 176.123.1.159:58436] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 10:59:09.334865 2024] [:error] [pid 301] [client 176.123.1.159:51832] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 11:40:40.211791 2024] [:error] [pid 298] [client 176.123.1.159:36242] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 13:44:13.994940 2024] [:error] [pid 310] [client 176.123.1.159:39804] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 16:07:56.778428 2024] [:error] [pid 300] [client 176.123.1.159:37688] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 19:25:45.198576 2024] [:error] [pid 302] [client 176.123.1.159:52566] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 20:04:20.139563 2024] [:error] [pid 307] [client 176.123.1.159:53156] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 02 21:50:22.401138 2024] [:error] [pid 301] [client 176.123.1.159:44350] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 05:05:59.361144 2024] [:error] [pid 308] [client 176.123.1.159:58228] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 06:26:36.794941 2024] [:error] [pid 298] [client 176.123.1.159:41576] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 06:27:08.557130 2024] [:error] [pid 310] [client 176.123.1.159:43732] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 10:12:35.664437 2024] [:error] [pid 307] [client 176.123.1.159:36768] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 10:14:09.071967 2024] [:error] [pid 301] [client 176.123.1.159:54744] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 11:20:33.687836 2024] [:error] [pid 298] [client 176.123.1.159:59564] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 13:14:12.849120 2024] [:error] [pid 310] [client 176.123.1.159:54426] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 18:36:50.222986 2024] [:error] [pid 300] [client 176.123.1.159:59078] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 03 22:36:50.428776 2024] [:error] [pid 302] [client 176.123.1.159:55420] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Thu Jul 04 05:38:12.577677 2024] [:error] [pid 301] [client 176.123.1.159:49050] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Thu Jul 04 07:12:20.993900 2024] [:error] [pid 310] [client 176.123.1.159:33838] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Thu Jul 04 09:48:46.316181 2024] [:error] [pid 299] [client 176.123.1.159:50350] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+ping: missing host operand
+Try 'ping --help' or 'ping --usage' for more information.
+[Thu Jul 04 12:48:38.304474 2024] [:error] [pid 308] [client 176.123.1.159:50448] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Thu Jul 04 17:10:39.824776 2024] [:error] [pid 308] [client 176.123.1.159:36180] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Fri Jul 05 06:31:36.834492 2024] [:error] [pid 298] [client 176.123.1.159:46726] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Fri Jul 05 15:25:25.671473 2024] [:error] [pid 309] [client 176.123.1.159:55916] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Fri Jul 05 16:15:09.793514 2024] [:error] [pid 310] [client 176.123.1.159:56244] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Fri Jul 05 19:09:25.741841 2024] [:error] [pid 308] [client 176.123.1.159:47418] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sat Jul 06 06:28:30.709140 2024] [:error] [pid 302] [client 176.123.1.159:50448] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sat Jul 06 10:04:04.769289 2024] [:error] [pid 310] [client 176.123.1.159:44060] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sat Jul 06 15:11:57.666799 2024] [:error] [pid 309] [client 176.123.1.159:47316] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jul 07 06:50:10.774076 2024] [:error] [pid 308] [client 176.123.1.159:49778] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Sun Jul 07 17:00:55.388211 2024] [:error] [pid 302] [client 176.123.1.159:39896] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 08 06:28:15.198165 2024] [:error] [pid 302] [client 176.123.1.159:47460] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+ping: unknown host
+ping: missing host operand
+Try 'ping --help' or 'ping --usage' for more information.
+ping: missing host operand
+Try 'ping --help' or 'ping --usage' for more information.
+ping: unknown host
+ping: unknown host
+ping: unknown host
+ping: unknown host
+sh: 1: Is: not found
+sh: 1: Is: not found
+ping: unknown host
+sh: 1: is: not found
+[Mon Jul 08 15:12:34.555756 2024] [:error] [pid 344] [client 176.123.1.159:46696] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Mon Jul 08 23:22:57.308042 2024] [:error] [pid 310] [client 176.123.1.159:33288] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 09 06:32:46.621914 2024] [:error] [pid 301] [client 176.123.1.159:57040] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 09 11:23:56.742632 2024] [:error] [pid 431] [client 176.123.1.159:57694] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Tue Jul 09 12:11:00.754766 2024] [:error] [pid 331] [client 176.123.1.159:42674] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 10 06:35:53.455676 2024] [:error] [pid 432] [client 176.123.1.159:33096] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 10 10:03:14.474562 2024] [:error] [pid 432] [client 176.123.1.159:52444] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+[Wed Jul 10 12:04:29.103630 2024] [:error] [pid 310] [client 176.123.1.159:51970] script '/var/www/html/hackable/uploads/.h.php' not found or unable to stat
+ping: missing host operand
+Try 'ping --help' or 'ping --usage' for more information.
+sh: 1: wget: not found
+sh: 1: unzip: not found
+rm: cannot remove 'dvwa.zip': No such file or directory
+sh: 1: cd: can't cd to xmrig
+sh: 1: ./xmrig: not found
+ping: missing host operand
+Try 'ping --help' or 'ping --usage' for more information.
+ping: missing host operand
+Try 'ping --help' or 'ping --usage' for more information.
